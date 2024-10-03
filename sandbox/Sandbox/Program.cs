@@ -10,6 +10,8 @@ class Program
         int x = 5;
         Console.WriteLine(x);
 
+        Console.WriteLine("Im really tired");
+
     }
 
 }
